@@ -214,10 +214,3 @@ This project is a testament to the power of collaboration between human ingenuit
 
 ## Contact
 For inquiries or collaboration, please reach out via GitHub Issues.
-
----
-
-### Notes on Integration
-- The **original scatter plot** is now under “Exploratory Analysis” with its own code block and output file (`terrain_map_coastal_india_2022.png`).
-- The **updated scatter plot** and **bar chart** are part of the “Comprehensive Analysis” section, already included in the final R code block.
-- The “Results” section now references all three visualizations with their respective images.
